@@ -11,16 +11,19 @@ This project analyzes Ola ride booking data to understand booking trends, cancel
 - Power BI
   
 ## Project Workflow
-   Raw Data
-       ↓
-  Data Preparation
-       ↓
-   SQL Analysis
-       ↓
-  Business Analysis
-      ↓
-Power BI Visualization
-      ↓
+               OLA RIDE BOOKING DATA
+                       ↓
+                DATA PREPARATION
+                       ↓
+                 SQL ANALYSIS
+                       ↓
+              BUSINESS ANALYSIS
+                       ↓
+              POWER BI VISUALIZATION
+                       ↓
+              INTERACTIVE DASHBOARD
+                       ↓
+               BUSINESS INSIGHTS
 
 ## Project Analysis
 
